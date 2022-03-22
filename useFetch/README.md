@@ -8,4 +8,3 @@ Ejemplo de uso:
 
 ```
 
-useCounter() // recibe un valor por defecto
